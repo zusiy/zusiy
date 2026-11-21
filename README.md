@@ -1,21 +1,35 @@
 <p align="center">
-  <img src="https://zusyframework.netlify.app/ZusyFramework.png" alt="Zusy Framework" width="150">
+  <img src="https://zusyframework.netlify.app/ZusyFramework.png" alt="ZusyFramework Logo" width="300"/>
 </p>
 
-<h1 align="center">Zusy</h1>
+<h1 align="center">ZusyFramework</h1>
 
 <p align="center">
-  Ethical Hacker & tool developer — creator of Zusy Framework.
+  <img src="https://img.shields.io/badge/language-Python-blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/platform-Windows-red" alt="Windows"/>
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License"/>
+  <img src="https://img.shields.io/badge/type-Pentesting%20Framework-orange" alt="Pentesting"/>
 </p>
 
----
+## About
 
-## About Me
+ZusyFramework is a powerful penetration testing and post-exploitation framework designed for ethical hackers and security researchers. It provides a wide range of modules for remote access, reverse shell generation, privilege escalation, credential harvesting, and system reconnaissance.
 
-I'm Zusy, an ethical hacker focused on offensive security tooling. I have been working in cybersecurity and hacking for over 3 years. I develop tools for authorized penetration testing, including **Zusy Framework**.
+Once deployed on a target Windows system, ZusyFramework enables the operator to gain persistent terminal access, capture webcam footage, retrieve sensitive files and system information, and execute arbitrary commands remotely. The framework is modular, extensible, and built for real-world red team operations.
 
-## Legal Notice
+### Features
 
-The tools I build, including Zusy Framework, are intended **strictly for authorized security testing, research, and educational purposes**. Using them against systems you do not own or do not have explicit written permission to test is illegal and may carry serious legal consequences. I assume no responsibility or liability for any misuse of my tools. Use responsibly and always stay within the bounds of the law.
+- Reverse shell & bind shell generation for Windows
+- Persistent backdoor and remote terminal access
+- Webcam capture and system information harvesting
+- Modular payload architecture with listener support
+- Encrypted C2 communication and stealth execution
 
-- Website: [zusyframework.app.tc](https://zusyframework.app.tc)
+## Installation
+
+Run the following commands in order to install ZusyFramework.
+
+**Step 1 — Clone the repository**
+```bash
+git clone https://github.com/zusiy/ZusyFramework.git
+cd ZusyFramework
