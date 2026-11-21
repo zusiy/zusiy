@@ -8,9 +8,6 @@
   Security researcher & tool developer — creator of Zusy Framework.
 </p>
 
-<p align="center">
-  <a href="https://zusyframework.app.tc">Website</a>
-</p>
 
 ---
 
