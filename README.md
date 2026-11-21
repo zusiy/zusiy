@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://zusyframework.netlify.app/ZusyFramework.png" alt="Zusy Framework" width="420">
+  <img src="https://zusyframework.netlify.app/ZusyFramework.png" alt="Zusy Framework" width="150">
 </p>
 
 <h1 align="center">Zusy Framework</h1>
 
 <p align="center">
-  A modular penetration testing framework built for security professionals.
+  A Windows-focused reverse shell / RAT-style framework built for authorized security testing.
 </p>
 
 <p align="center">
@@ -20,21 +20,21 @@
 
 ## About Me
 
-I am the creator and maintainer of **Zusy Framework**, an open penetration testing tool designed to streamline the workflow of security assessments. My work focuses on offensive security, tool development, and building practical utilities for researchers and red team operators.
+I'm Zusy, the creator and maintainer of **Zusy Framework**. My work focuses on offensive security tooling, with an emphasis on practical, well-engineered utilities for authorized penetration testing and red team work.
 
 ## About Zusy Framework
 
-Zusy Framework is a penetration testing framework that brings common assessment tasks into a single, consistent environment. It is designed to be extensible, lightweight, and easy to integrate into an existing testing workflow.
+Zusy Framework is a Windows-targeted reverse shell / RAT-style framework designed for use in authorized penetration testing engagements. It is built to give security testers a reliable, consistent toolset for simulating real-world attack scenarios against systems they are authorized to assess.
 
 ### Key Features
 
-- Modular architecture with a clean plugin structure
-- [Reconnaissance and information gathering modules]
-- [Scanning and enumeration capabilities]
-- [Exploitation and post-exploitation modules]
-- [Reporting and output in common formats]
-- Simple command-line interface with consistent syntax
-- Easy to extend with custom modules
+- Windows reverse shell / remote access capabilities
+- [Persistence mechanisms]
+- [Command and control / listener setup]
+- [Payload generation and delivery options]
+- [Logging and session management]
+- Modular, extensible design
+- Simple command-line interface
 
 ## Installation
 
@@ -50,24 +50,24 @@ pip install -r requirements.txt
 python zusy.py --help
 ```
 
-Refer to the documentation on the [project website](https://zusyframework.netlify.app/) for module descriptions and usage examples.
+Refer to the documentation on the [project website](https://zusyframework.netlify.app/) for setup and module details.
 
 ## Tech Stack
 
-- Language: [Python / Go / Rust / ...]
-- Platform: Linux (primary), [others]
+- Language: [Python / C# / C++ / ...]
+- Target platform: Windows
 - Interface: Command line
 
 ## Roadmap
 
-- [ ] Expand the module library
-- [ ] Improve reporting output
-- [ ] Add configuration profiles
-- [ ] Extend documentation and usage guides
+- [ ] Expand module library
+- [ ] Improve evasion and stability
+- [ ] Add reporting/session export
+- [ ] Extend documentation
 
 ## Legal Disclaimer
 
-Zusy Framework is intended for **authorized security testing and educational purposes only**. Use it only against systems you own or have explicit written permission to test. The author assumes no liability for misuse or damage caused by this tool. You are solely responsible for complying with all applicable laws and regulations.
+Zusy Framework is intended **strictly for authorized security testing and educational purposes**. Use it only against systems you own or have explicit written permission to test. Unauthorized use against systems you do not own or do not have permission to test is illegal. The author assumes no liability for misuse or damage caused by this tool. You are solely responsible for complying with all applicable laws and regulations in your jurisdiction.
 
 ## Contact
 
@@ -78,5 +78,5 @@ Zusy Framework is intended for **authorized security testing and educational pur
 ---
 
 <p align="center">
-  Built for defenders, researchers, and security professionals.
+  Built for authorized security testing and research.
 </p>
