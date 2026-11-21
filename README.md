@@ -16,14 +16,12 @@
 
 ## About Me
 
-I'm Zusy, a security researcher focused on offensive security tooling. I develop tools for authorized penetration testing, including **Zusy Framework**, a Windows-targeted reverse shell / RAT-style framework.
+I'm Zusy, a security researcher focused on offensive security tooling. I develop tools for authorized penetration testing, including **Zusy Framework**
 
 ## Legal Notice
 
 The tools I build, including Zusy Framework, are intended **strictly for authorized security testing, research, and educational purposes**. Using them against systems you do not own or do not have explicit written permission to test is illegal and may carry serious legal consequences. I assume no responsibility or liability for any misuse of my tools. Use responsibly and always stay within the bounds of the law.
 
-## Contact
 
 - Website: [zusyframework.app.tc](https://zusyframework.app.tc)
-- GitHub: [@YOUR-USERNAME](https://github.com/[YOUR-USERNAME])
-- Email: [your-email@example.com]
+
