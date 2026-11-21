@@ -5,15 +5,14 @@
 <h1 align="center">Zusy</h1>
 
 <p align="center">
-  Security researcher & tool developer — creator of Zusy Framework.
+  Ethical Hacker & tool developer — creator of Zusy Framework.
 </p>
-
 
 ---
 
 ## About Me
 
-I'm Zusy, a security researcher focused on offensive security tooling. I have been working in cybersecurity and hacking for over 3 years. I develop tools for authorized penetration testing, including **Zusy Framework**.
+I'm Zusy, an ethical hacker focused on offensive security tooling. I have been working in cybersecurity and hacking for over 3 years. I develop tools for authorized penetration testing, including **Zusy Framework**.
 
 ## Legal Notice
 
